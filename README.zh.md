@@ -18,7 +18,7 @@
 
 客户端工具的安装、使用详见 [macaca-client](https://github.com/macacajs/macaca-client)。
 
-![macaca](https://os.alipayobjects.com/rmsportal/AupRcQdJrzTdOnd.gif)
+[Demo](https://os.alipayobjects.com/rmsportal/AupRcQdJrzTdOnd.gif)
 
 [官方主页](https://macacajs.github.io/macaca)
 
@@ -32,7 +32,7 @@
 
 ![reliable-2](http://ww3.sinaimg.cn/large/6d308bd9gw1f1ygp26ocej20wr0j2tcz.jpg)
 
-![reliable-3](http://ww1.sinaimg.cn/large/6d308bd9gw1f1ygp312huj20qj0jz0ut.jpg)
+![reliable-3](http://ww4.sinaimg.cn/large/6d308bd9gw1f1yr1jy4ohj20qj0jzgn4.jpg)
 
 ## License
 
