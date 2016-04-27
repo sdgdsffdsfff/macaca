@@ -1,6 +1,6 @@
 ![macaca](https://avatars.githubusercontent.com/u/12892132?v=3&s=150)
 
-# macaca
+# Macaca
 
 一套完整的自动化测试解决方案
 
@@ -24,7 +24,7 @@
 
 ## 持续集成
 
-[reliable](https://reliablejs.github.io) 是分布式持续集成服务，可与 macaca 无缝融合。
+[reliable](https://reliablejs.github.io) 是分布式持续集成服务，可与 Macaca 无缝融合。
 
 部署和使用详见 [reliable-slave](https://github.com/macacajs/reliable-slave), [reliable-master](https://github.com/reliablejs/reliable-master)。
 

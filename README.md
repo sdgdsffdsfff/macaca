@@ -1,6 +1,6 @@
 ![macaca](https://avatars.githubusercontent.com/u/12892132?v=3&s=150)
 
-# macaca
+# Macaca
 
 [![Join the chat at https://gitter.im/alibaba/macaca](https://badges.gitter.im/alibaba/macaca.svg)](https://gitter.im/alibaba/macaca?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -26,7 +26,7 @@ Installationy, usage for Client Tools [macaca-client](https://github.com/macacaj
 
 ## Continuous Integration
 
-[reliable](https://reliablejs.github.io) is distributed reliable continuous integration service, integrated with macaca seamlessly.
+[reliable](https://reliablejs.github.io) is distributed reliable continuous integration service, integrated with Macaca seamlessly.
 
 Deployment [reliable-slave](https://github.com/macacajs/reliable-slave), [reliable-master](https://github.com/reliablejs/reliable-master)。
 
