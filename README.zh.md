@@ -2,6 +2,11 @@
 
 # Macaca
 
+[![Gitter Chat][gitter-image]][gitter-url]
+
+[gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square
+[gitter-url]: https://gitter.im/alibaba/macaca
+
 一套完整的自动化测试解决方案
 
 [English Edition](README.md)
@@ -11,28 +16,15 @@
 ## 特性
 
 - 支持移动端和PC端
-- 支持Native, Hybrid, H5 等多种应用类型
+- 支持 Native, Hybrid, H5 等多种应用类型
 - 提供客户端工具和持续集成服务
 
-## 客户端
+## 帮助支持
 
-客户端工具的安装、使用详见 [macaca-client](https://github.com/macacajs/macaca-client)。
-
-[Demo](https://os.alipayobjects.com/rmsportal/AupRcQdJrzTdOnd.gif)
-
-[官方主页](https://macacajs.github.io/macaca)
-
-## 持续集成
-
-[reliable](https://reliablejs.github.io) 是分布式持续集成服务，可与 Macaca 无缝融合。
-
-部署和使用详见 [reliable-slave](https://github.com/macacajs/reliable-slave), [reliable-master](https://github.com/reliablejs/reliable-master)。
-
-![reliable-1](http://ww1.sinaimg.cn/large/6d308bd9gw1f1ygp19gllj20xl0oldna.jpg)
-
-![reliable-2](http://ww3.sinaimg.cn/large/6d308bd9gw1f1ygp26ocej20wr0j2tcz.jpg)
-
-![reliable-3](http://ww4.sinaimg.cn/large/6d308bd9gw1f1yr1jy4ohj20qj0jzgn4.jpg)
+- [项目主页](https://macacajs.github.io/macaca/)
+- [Bug 报告](https://github.com/alibaba/macaca/issues/new)
+- [ChangeLog](https://github.com/alibaba/macaca/wiki/ChangeLog)
+- [FAQ](https://github.com/alibaba/macaca/wiki/FAQ)
 
 ## License
 

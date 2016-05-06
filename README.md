@@ -2,7 +2,10 @@
 
 # Macaca
 
-[![Join the chat at https://gitter.im/alibaba/macaca](https://badges.gitter.im/alibaba/macaca.svg)](https://gitter.im/alibaba/macaca?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter Chat][gitter-image]][gitter-url]
+
+[gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square
+[gitter-url]: https://gitter.im/alibaba/macaca
 
 Solution for Automation Test with Ease
 
@@ -14,27 +17,14 @@ Solution for Automation Test with Ease
 
 - Both **Mobile**, Desktop Platforms Supported
 - Native, Hybrid, Mobile Web Multi-applications Supported
-- Client Tool & CI Service provided
+- Command line tools & CI Solution provided
 
-## Client Tools
+## Help and Support
 
-Installationy, usage for Client Tools [macaca-client](https://github.com/macacajs/macaca-client).
-
-[Demo](https://os.alipayobjects.com/rmsportal/AupRcQdJrzTdOnd.gif)
-
-[Homepage](https://macacajs.github.io/macaca)
-
-## Continuous Integration
-
-[reliable](https://reliablejs.github.io) is distributed reliable continuous integration service, integrated with Macaca seamlessly.
-
-Deployment [reliable-slave](https://github.com/macacajs/reliable-slave), [reliable-master](https://github.com/reliablejs/reliable-master)。
-
-![reliable-1](http://ww1.sinaimg.cn/large/6d308bd9gw1f1ygp19gllj20xl0oldna.jpg)
-
-![reliable-2](http://ww3.sinaimg.cn/large/6d308bd9gw1f1ygp26ocej20wr0j2tcz.jpg)
-
-![reliable-3](http://ww4.sinaimg.cn/large/6d308bd9gw1f1yr1jy4ohj20qj0jzgn4.jpg)
+- [Home page](https://macacajs.github.io/macaca/)
+- [Bug reports](https://github.com/alibaba/macaca/issues/new)
+- [ChangeLog](https://github.com/alibaba/macaca/wiki/ChangeLog)
+- [FAQ](https://github.com/alibaba/macaca/wiki/FAQ)
 
 ## License
 
