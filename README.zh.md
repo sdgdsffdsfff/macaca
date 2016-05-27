@@ -21,10 +21,10 @@
 
 ## 帮助支持
 
-- [项目主页](https://macacajs.github.io/macaca/)
-- [Bug 报告](https://github.com/alibaba/macaca/issues/new)
-- [ChangeLog](https://github.com/alibaba/macaca/wiki/ChangeLog)
-- [FAQ](https://github.com/alibaba/macaca/wiki/FAQ)
+- [项目主页](//macacajs.github.io/macaca/)
+- [Bug 报告](//github.com/alibaba/macaca/issues/new)
+- [ChangeLog](//macacajs.github.io/macaca/changelog.html)
+- [FAQ](//macacajs.github.io/macaca/faq.html)
 
 ## License
 

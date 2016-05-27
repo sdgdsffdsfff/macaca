@@ -21,10 +21,10 @@ Solution for Automation Test with Ease
 
 ## Help and Support
 
-- [Home page](https://macacajs.github.io/macaca/)
-- [Bug reports](https://github.com/alibaba/macaca/issues/new)
-- [ChangeLog](https://github.com/alibaba/macaca/wiki/ChangeLog)
-- [FAQ](https://github.com/alibaba/macaca/wiki/FAQ)
+- [Home page](//macacajs.github.io/macaca/)
+- [Bug reports](//github.com/alibaba/macaca/issues/new)
+- [ChangeLog](//macacajs.github.io/macaca/changelog.html)
+- [FAQ](//macacajs.github.io/macaca/faq.html)
 
 ## License
 
