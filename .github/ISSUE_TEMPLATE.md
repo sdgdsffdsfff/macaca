@@ -14,6 +14,6 @@ Thank you!
 
 * **Operate System**:
 
-* ***programming Language*:
+* **programming Language**:
 
 <!-- Enter your issue details and log as much information as possible below this comment. -->
