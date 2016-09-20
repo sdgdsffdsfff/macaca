@@ -10,10 +10,10 @@ Thank you!
 
 * **Macaca Version**:
 
-* **Macaca Doctor**:
+* **Macaca Doctor Logs**:
 
 * **Operate System**:
 
-* **programming Language**:
+* **Programming Language**:
 
 <!-- Enter your issue details and log as much information as possible below this comment. -->
