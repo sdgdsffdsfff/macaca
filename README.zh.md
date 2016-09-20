@@ -24,6 +24,7 @@
 - [项目主页](//macacajs.github.io/macaca/)
 - [Bug 报告](//github.com/alibaba/macaca/issues/new)
 - [ChangeLog](//macacajs.github.io/macaca/changelog.html)
+- [Source Code](//github.com/macacajs)
 - [FAQ](//macacajs.github.io/macaca/faq.html)
 
 ## License
