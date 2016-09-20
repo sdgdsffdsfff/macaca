@@ -1,4 +1,4 @@
-![macaca](https://avatars.githubusercontent.com/u/12892132?v=3&s=150)
+![macaca-logo](https://macacajs.github.io/macaca-logo/svg/monkey.svg)
 
 # Macaca
 
