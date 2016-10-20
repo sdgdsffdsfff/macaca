@@ -1,6 +1,8 @@
 <!--
 Thanks for wanting to report an issue you've found in Macaca. Please fill in the template below by replacing the html comments with an appropriate answer.
 
+FAQ: https://macacajs.github.io/macaca/faq.html
+
 Macaca Version: usually output of `macaca -v`
 Macaca Doctor: usually output of `macaca doctor`
 Platform: either `uname -a` output, or if Windows, version and 32 or 64-bit.
