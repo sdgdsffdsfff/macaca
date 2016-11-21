@@ -21,11 +21,11 @@ Solution for Automation Test with Ease
 
 ## Help and Support
 
-- [Home page](//macacajs.github.io/macaca/)
+- [Home page](//macacajs.github.io)
 - [Bug reports](//github.com/alibaba/macaca/issues/new)
-- [ChangeLog](//macacajs.github.io/macaca/changelog.html)
+- [ChangeLog](//macacajs.github.io/changelog.html)
 - [Source Code](//github.com/macacajs)
-- [FAQ](//macacajs.github.io/macaca/faq.html)
+- [FAQ](//macacajs.github.io/faq.html)
 
 ## License
 
