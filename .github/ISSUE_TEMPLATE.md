@@ -1,7 +1,7 @@
 <!--
 Thanks for wanting to report an issue you've found in Macaca. Please fill in the template below by replacing the html comments with an appropriate answer.
 
-FAQ: https://macacajs.github.io/macaca/faq.html
+FAQ: https://macacajs.github.io/faq.html
 
 Macaca Version: usually output of `macaca -v`
 Macaca Doctor: usually output of `macaca doctor`
