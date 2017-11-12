@@ -28,16 +28,13 @@
 ## 帮助支持
 
 - [项目主页](//macacajs.github.io)
+- [示例集合](//github.com/macaca-sample)
 - [Bug 报告](//github.com/alibaba/macaca/issues/new)
-- [ChangeLog](//macacajs.github.io/changelog.html)
+- [Change Log](//macacajs.github.io/changelog)
 - [Source Code](//github.com/macacajs)
-- [FAQ](//macacajs.github.io/faq.html)
+- [Community](//github.com/macacajs/awesome-macaca)
+- [FAQ](//macacajs.github.io/faq)
 
 ## License
 
 The MIT License (MIT)
-
-[![paypal donate][paypal-image]][paypal-url]
-
-[paypal-image]: https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif
-[paypal-url]: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=xudafeng@126.com&currency_code=USD&amount=1&return=https://github.com/macacajs&item_name=Macaca&undefined_quantity=1&no_note=0
