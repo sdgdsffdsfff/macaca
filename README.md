@@ -7,11 +7,6 @@
 
 # Macaca
 
-[![Gitter Chat][gitter-image]][gitter-url]
-
-[gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square
-[gitter-url]: https://gitter.im/alibaba/macaca
-
 Macaca is an open-source automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms.
 
 0. Native means apps written with iOS or android SDKs.
@@ -55,17 +50,6 @@ Macaca uses session to accept and respond requests. A client initiates a session
 ### Client
 
 Macaca doesn't limit what client you use. We provide [Node.js](//macacajs.github.io/macaca-wd/), [Java](//macacajs.github.io/wd.java/) and [Python API](https://macacajs.com/python) libraries to get you started quickly.
-
-## Getting Started
-
-Once you have node.js and npm installed, run our `sample test project ` to see Macaca in action
-
-``` shell
-$ git clone https://github.com/macaca-sample/sample-nodejs.git --depth=1
-$ cd sample-nodejs
-$ npm i
-$ make
-```
 
 ## Help and Support
 
