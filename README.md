@@ -1,11 +1,18 @@
-
-<div align="center">
-  <img src="https://macacajs.github.io/macaca-logo/svg/monkey.svg" />
-</div>
+<p align="center">
+  <a href="//macacajs.github.io">
+    <img
+      alt="Macaca"
+      src="https://macacajs.github.io/macaca-logo/svg/monkey.svg"
+      width="200"
+    />
+  </a>
+</p>
 
 ---
 
 # Macaca
+
+[中文版](README.zh.md)
 
 Macaca is an open-source automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms.
 
@@ -17,8 +24,6 @@ Macaca is an open-source automation test solution for native, hybrid, mobile web
 Macaca is "cross-platform". It means you can use the same API to write test scripts, and same test scripts to test your apps running on devices such as iOS, Android or desktops.
 
 Macaca doesn't limit what languages you will use to write your tests.
-
-[中文版](README.zh.md)
 
 ---
 
@@ -53,13 +58,12 @@ Macaca doesn't limit what client you use. We provide [Node.js](//macacajs.github
 
 ## Help and Support
 
-- [Home Page](//macacajs.github.io)
+- [Official Site](//macacajs.github.io)
 - [Samples](//github.com/macaca-sample)
-- [Bug Reports](//github.com/alibaba/macaca/issues/new)
-- [Change Log](//macacajs.github.io/changelog)
+- [Roadmap](//macacajs.github.io/roadmap)
 - [Source Code](//github.com/macacajs)
-- [Community](//github.com/macacajs/awesome-macaca)
-- [FAQ](//macacajs.github.io/faq)
+- [Awesome](//github.com/macacajs/awesome-macaca)
+- [Community Support](//macacajs.github.io/support)
 
 ## License
 
