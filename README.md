@@ -63,7 +63,7 @@ Macaca doesn't limit what client you use. We provide [Node.js](//macacajs.github
 - [Roadmap](//macacajs.github.io/roadmap)
 - [Source Code](//github.com/macacajs)
 - [Awesome](//github.com/macacajs/awesome-macaca)
-- [Community Support](//macacajs.github.io/support)
+- [Community Support](//macacajs.github.io/guide/support.html)
 
 ## License
 
