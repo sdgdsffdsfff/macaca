@@ -38,12 +38,12 @@ Macaca 提供了多种持续集成方案和功能模块，方便集成到研发�
 
 ## 帮助支持
 
-- [官网](//macacajs.github.io)
+- [官网](//macacajs.github.io/zh)
 - [示例集合](//github.com/macaca-sample)
-- [重要里程碑](//macacajs.github.io/roadmap)
+- [重要里程碑](//macacajs.github.io/zh/guide/roadmap.html)
 - [模块源码](//github.com/macacajs)
 - [社区精华](//github.com/macacajs/awesome-macaca)
-- [社区支持](//macacajs.github.io/support)
+- [社区支持](//macacajs.github.io/zh/guide/support.html)
 
 ## License
 
