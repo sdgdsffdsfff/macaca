@@ -56,7 +56,7 @@ Macaca supports major browsers such as Chrome, Firefox, Safari. It also supports
 
 ### Macaca DataHub
 
-<p>
+<p align="center">
   <a href="https://macacajs.github.io/macaca-datahub/">
     <img
       alt="Macaca DataHub"
@@ -68,7 +68,9 @@ Macaca supports major browsers such as Chrome, Firefox, Safari. It also supports
 
 Macaca DataHub is a continuous data provider for development, testing, staging and production.
 
-<p>
+---
+
+<p align="center">
   <img src="https://ws1.sinaimg.cn/large/bceaad1fly1fwkophwa8qj229m1gejyw.jpg" width="740px">
 </p>
 
@@ -77,7 +79,7 @@ Macaca DataHub is a continuous data provider for development, testing, staging a
 
 ### Reliable
 
-<p>
+<p align="center">
   <a href="https://macacajs.github.io/reliable/">
     <img
       alt="Macaca Reliable"
@@ -87,9 +89,11 @@ Macaca DataHub is a continuous data provider for development, testing, staging a
   </a>
 </p>
 
-<p>Reliable is a testing management suite with continuous delivery support.</p>
+Reliable is a testing management suite with continuous delivery support.
 
-<p>
+---
+
+<p align="center">
   <img src="https://wx3.sinaimg.cn/large/6d308bd9ly1fz3wii2wqsj21bh0u0qij.jpg" width="740px">
 </p>
 
@@ -100,7 +104,7 @@ Macaca DataHub is a continuous data provider for development, testing, staging a
 
 NoSmoke is a cross platform UI crawler which generate and execute UI test cases.
 
-<p>
+<p align="center">
   <img src="https://macacajs.github.io/NoSmoke/assets/macaca-architecture-2.0.png" width="740px">
 </p>
 
@@ -111,7 +115,7 @@ NoSmoke is a cross platform UI crawler which generate and execute UI test cases.
 
 App-inspector is a mobile UI viewer in browser. View the UI in a tree view, and generate XPath automatically.
 
-<p>
+<p align="center">
   <img src="https://ww4.sinaimg.cn/large/7dfcf2f7gw1f77ev6csw5g20s50iwe81.gif" width="740px">
 </p>
 
@@ -122,7 +126,7 @@ App-inspector is a mobile UI viewer in browser. View the UI in a tree view, and 
 
 Macaca UITest runs mocha in a browser environment.
 
-<p>
+<p align="center">
   <img src="http://ww3.sinaimg.cn/large/6d308bd9gw1f6wsic5dmxj20rl0qqtbi.jpg" width="740px">
 </p>
 
@@ -133,7 +137,7 @@ Macaca UITest runs mocha in a browser environment.
 
 Macaca Reporter is a reporter used for mocha and other frameworks.
 
-<p>
+<p align="center">
   <img src="http://wx4.sinaimg.cn/large/6d308bd9gy1fivuatxep5j21kw13dgs6.jpg" width="740px">
 </p>
 
@@ -151,19 +155,21 @@ Torchjs is an excellent unit testing framework for browser environment.
 
 ### UI Recorder
 
-<p>
+<p align="center">
   <a href="https://uirecorder.com/">
     <img
       alt="UI Recorder"
       src="https://raw.github.com/alibaba/uirecorder/master/logo.png"
-      width="128"
+      width="400"
     />
   </a>
 </p>
 
 UI Recorder is a zero cost UI test case recorder like Selenium IDE.
 
-<p>
+---
+
+<p align="center">
   <img src="https://raw.github.com/alibaba/uirecorder/master/screenshot/shot1.png" width="740px">
 </p>
 
