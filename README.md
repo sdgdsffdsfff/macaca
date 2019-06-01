@@ -23,7 +23,7 @@ Macaca is an open-source automation test solution for native, hybrid, mobile web
 At its core, Macaca is an end-to-end test automation framework consisting of clients, servers and drivers.
 
 <p align="center">
-  <img src="https://wx2.sinaimg.cn/large/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg" width="740px">
+  <img src="https://macacajs.com/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg" width="740px">
 </p>
 
 ### Client
@@ -51,7 +51,7 @@ Macaca supports major browsers such as Chrome, Firefox, Safari. It also supports
 ## Macaca Community Ecosystem
 
 <p align="center">
-  <img src="https://wx4.sinaimg.cn/large/88fe9010gy1g1u1s0bzwsj20rz0kwtdx.jpg" width="740px">
+  <img src="https://macacajs.com/assets/88fe9010gy1g1u1s0bzwsj20rz0kwtdx.jpg" width="740px">
 </p>
 
 ### Macaca DataHub
@@ -71,7 +71,7 @@ Macaca DataHub is a continuous data provider for development, testing, staging a
 ---
 
 <p align="center">
-  <img src="https://ws1.sinaimg.cn/large/bceaad1fly1fwkophwa8qj229m1gejyw.jpg" width="740px">
+  <img src="https://macacajs.github.io/macaca-datahub/assets/1556087321021-f5514eb2-62f6-484b-ad58-24433c7f8906.png" width="740px">
 </p>
 
 * [Website](https://macacajs.github.io/macaca-datahub/)
@@ -94,7 +94,7 @@ Reliable is a testing management suite with continuous delivery support.
 ---
 
 <p align="center">
-  <img src="https://wx3.sinaimg.cn/large/6d308bd9ly1fz3wii2wqsj21bh0u0qij.jpg" width="740px">
+  <img src="https://macacajs.github.io/reliable/assets/6d308bd9ly1fz3wii2wqsj21bh0u0qij.jpg" width="740px">
 </p>
 
 * [Website](https://macacajs.github.io/reliable/)
@@ -116,7 +116,7 @@ NoSmoke is a cross platform UI crawler which generate and execute UI test cases.
 App-inspector is a mobile UI viewer in browser. View the UI in a tree view, and generate XPath automatically.
 
 <p align="center">
-  <img src="https://ww4.sinaimg.cn/large/7dfcf2f7gw1f77ev6csw5g20s50iwe81.gif" width="740px">
+  <img src="https://macacajs.github.io/app-inspector/assets/7dfcf2f7gw1f77ev6csw5g20s50iwe81.gif" width="740px">
 </p>
 
 * [Website](https://macacajs.com/app-inspector/)
@@ -127,7 +127,7 @@ App-inspector is a mobile UI viewer in browser. View the UI in a tree view, and 
 Macaca UITest runs mocha in a browser environment.
 
 <p align="center">
-  <img src="http://ww3.sinaimg.cn/large/6d308bd9gw1f6wsic5dmxj20rl0qqtbi.jpg" width="740px">
+  <img src="https://macacajs.github.io/uitest/assets/6d308bd9gw1f6wsic5dmxj20rl0qqtbi.jpg" width="740px">
 </p>
 
 * [Website](https://macacajs.github.io/uitest/)
@@ -138,7 +138,7 @@ Macaca UITest runs mocha in a browser environment.
 Macaca Reporter is a reporter used for mocha and other frameworks.
 
 <p align="center">
-  <img src="http://wx4.sinaimg.cn/large/6d308bd9gy1fivuatxep5j21kw13dgs6.jpg" width="740px">
+  <img src="https://macacajs.github.io/macaca-reporter/assets/6d308bd9gy1fivuatxep5j21kw13dgs6.jpg" width="740px">
 </p>
 
 * [Website](https://macacajs.github.io/macaca-reporter/)
@@ -148,7 +148,7 @@ Macaca Reporter is a reporter used for mocha and other frameworks.
 
 Torchjs is an excellent unit testing framework for browser environment.
 
-[gif demo](http://wx4.sinaimg.cn/large/6d308bd9gy1fiw8er0a5eg20zc0k0he0.gif)
+[gif demo](https://macacajs.github.io/torchjs/assets/6d308bd9gy1fiw8er0a5eg20zc0k0he0.gif)
 
 * [Website](https://macacajs.github.io/macaca-reporter/)
 * [GitHub](https://github.com/macacajs/macaca-reporter)

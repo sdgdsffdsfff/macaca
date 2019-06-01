@@ -26,11 +26,11 @@ Macaca 是一套面向用户端软件的测试解决方案，提供了自动化�
 
 ## 系统架构
 
-![](https://wx2.sinaimg.cn/large/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
+![](https://macacajs.com/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
 
 ## 社区生态
 
-![](https://wx2.sinaimg.cn/large/88fe9010gy1g1u1juuz3hj20rz0kwafl.jpg)
+![](https://macacajs.com/assets/88fe9010gy1g1u1juuz3hj20rz0kwafl.jpg)
 
 ## 标准化
 
