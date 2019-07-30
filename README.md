@@ -48,6 +48,13 @@ Macaca is "cross-platform". It means you can use the same API to write test scri
 
 Macaca supports major browsers such as Chrome, Firefox, Safari. It also supports electron environment.
 
+## Native, Mobile, Hybrid
+
+0. Native means apps written with iOS or android SDKs.
+0. Mobile web means apps written in HTML, CSS and JavaScript and displayed via a mobile device browser such as Safari, Chrome or Webview in iOS and android.
+0. Hybrid is apps created by webview in native app.
+0. Web means apps written in HTML, CSS and JavaScript.
+
 ## Macaca Community Ecosystem
 
 <p align="center">
@@ -189,13 +196,6 @@ It is recommended to get started from the [official site](https://macacajs.githu
 - [Roadmap](//macacajs.github.io/guide/roadmap.html)
 - [Awesome](//github.com/macacajs/awesome-macaca)
 - [Community Support](//macacajs.github.io/guide/support.html)
-
-## Native, Mobile, Hybrid
-
-0. Native means apps written with iOS or android SDKs.
-0. Mobile web means apps written in HTML, CSS and JavaScript and displayed via a mobile device browser such as Safari, Chrome or Webview in iOS and android.
-0. Hybrid is apps created by webview in native app.
-0. Web means apps written in HTML, CSS and JavaScript.
 
 ## License
 
