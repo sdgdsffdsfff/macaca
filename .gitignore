@@ -1,8 +1,4 @@
 .DS_Store
-*.swp
-*.swo
-*.swn
-*.swl
-*.swm
-.sw*
 Thumbs.db
+*.sw*
+*.un~
